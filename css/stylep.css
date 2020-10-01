@@ -10,6 +10,9 @@ body {
     background-size: cover;
     width: 100%;
 }
+*{
+    overflow-x: hidden;
+}
 /* Basic */
 body {
     overflow-x: hidden;
